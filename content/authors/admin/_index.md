@@ -18,12 +18,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Musician and undergraduate researcher in human-centered computing looking for interdisciplinary, graduate school opportunities.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Music Technology
+- Performance Technology
+- Human-Computer Interactions
+- Assistive Technology
 
 education:
   courses:
@@ -70,6 +71,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Fayokemi "Fayo" Ojo is a computer science undergraduate at the University of Maryland, Baltimore County. She has done independent and collaborative research projects in human-centered computing, software engineering, and will be working on robotics in Fall 2019.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+When she is not in class or conducting research, she is a vocalist in the Baltimore area with a passion for tech and engineering education outreach. She is the current president of Computer Science Education Club at UMBC.
