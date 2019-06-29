@@ -15,7 +15,7 @@ role: Undergraduate Researcher
 # Organizations/Affiliations
 organizations:
 - name: University of Maryland, Baltimore County (UMBC)
-  url: ""
+  url: "https://isrc.umbc.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Musician and undergraduate researcher in human-centered computing looking for interdisciplinary, graduate school opportunities.
@@ -62,6 +62,6 @@ user_groups:
 - Visitors
 ---
 
-Fayokemi "Fayo" Ojo is a computer science undergraduate at the University of Maryland, Baltimore County. She has done independent and collaborative research projects in human-centered computing, software engineering, and will be working on robotics in Fall 2019.
+Fayo Ojo is a computer science undergraduate at the University of Maryland, Baltimore County. She has done independent and collaborative research projects in human-centered computing, software engineering, and will be working on robotics in Fall 2019.
 
 When she is not in class or conducting research, she is a vocalist in the Baltimore area with a passion for tech and engineering education outreach. She is the current president of Computer Science Education Club at UMBC.
