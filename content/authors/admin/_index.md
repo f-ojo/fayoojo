@@ -27,13 +27,8 @@ interests:
 - Assistive Technology
 
 education:
-<<<<<<< HEAD
   courses:
   - course: BSc in Computer Science
-=======
-  - major: BSc in Computer Science
-    minor: Information Systems
->>>>>>> e0d04b47103e85877d335dea86217f13bcff52ea
     institution: University of Maryland, Baltimore County
     year: 2020
 
