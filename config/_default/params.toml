@@ -15,14 +15,14 @@ font = "default"
 description = "Fayo Ojo is an undergraduate in computer science at UMBC that is working towards a career in research."
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = "img/hero-academic.jpg"
+sharing_image = "img/display.jpg"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
 twitter = "fayo-ojo"
 
 # Diplay a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-logo = ""
+logo = "img/hero-academic.jpg"
 
 # Enable global source code highlighting? true/false
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
@@ -106,7 +106,7 @@ plugins_js  = []
 ############################
 
 # Get user avatars from Gravatar.com? (true/false)
-gravatar = false
+gravatar = true
 
 # Align the main menu to the right of the page? (true/false)
 menu_align_right = false
