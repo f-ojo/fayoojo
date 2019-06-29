@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Fayokemi "Fayo" Ojo
+name: Fayo Ojo
 
 # Username (this should match the folder name)
 authors:
