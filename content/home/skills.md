@@ -23,18 +23,15 @@ subtitle = ""
   icon = "music"
   icon_pack = "fas"
   name = "Vocal Performance"
-  description = "90%"  
 
 [[feature]]
   icon = "git"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Version Control"
-  description = "10%"
 
 [[feature]]
-  icon = "git"
+  icon = "raspberry-pi"
   icon_pack = "fas"
-  name = "Version Control"
-  description = "10%"
+  name = "Fabrication"
 
 +++
