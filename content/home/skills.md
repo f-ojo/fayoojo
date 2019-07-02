@@ -31,7 +31,7 @@ subtitle = ""
 
 [[feature]]
   icon = "raspberry-pi"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Fabrication"
 
 +++
