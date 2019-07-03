@@ -2,7 +2,7 @@
 # Slider widget.
 widget = "slider"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 25  # Order that this section will appear.
 
 # Slide interval.
@@ -17,8 +17,8 @@ height = 'calc(100vh - 70px)'
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Nothing Can Change This Love"
-  {{< youtube id="dTYVdUXt-BE" >}}
-  #content = youtube id="dTYVdUXt-BE"
+  #{{< youtube id="dTYVdUXt-BE" >}}
+  content = ""
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
