@@ -18,7 +18,7 @@ height = 'calc(100vh - 70px)'
 [[item]]
   title = "Nothing Can Change This Love"
   #{{< youtube id="dTYVdUXt-BE" >}}
-  content = ""
+  content = "https://www.youtube.com/watch?v=dTYVdUXt-BE"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
