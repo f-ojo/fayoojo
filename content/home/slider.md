@@ -17,7 +17,8 @@ height = 'calc(100vh - 70px)'
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Nothing Can Change This Love"
-  content = "youtube dTYVdUXt-BE"
+  {{< youtube id="dTYVdUXt-BE" >}}
+  #content = youtube id="dTYVdUXt-BE"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
