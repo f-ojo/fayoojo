@@ -21,17 +21,28 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
 
+<<<<<<< HEAD
    [[content.filter_button]]
      name = "All"
      tag = "*"
+=======
+  # [[content.filter_button]]
+  #   name = "All"
+  #   tag = "*"
+>>>>>>> 7be38701f88661921737bd60d30ca425c9e6b668
 
    [[content.filter_button]]
      name = "Research and Academic"
      tag = "Research"
 
    [[content.filter_button]]
+<<<<<<< HEAD
      name = "Selected Performances"
      tag = "Music"
+=======
+     name = "Music"
+     tag = "Demo"
+>>>>>>> 7be38701f88661921737bd60d30ca425c9e6b668
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
