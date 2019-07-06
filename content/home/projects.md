@@ -29,20 +29,14 @@ subtitle = ""
    [[content.filter_button]]
      name = "Research and Academic"
      tag = "Research"
-     image = "img/display.jpg"
 
    [[content.filter_button]]
       name = "Outreach and Volunteering"
-      tag = "Research"
-
+      tag = "Outreach"
 
   [[content.filter_button]]
-     name = "Music Recordings"
+     name = "Music"
      tag = "Music"
-
-     [[content.filter_button]]
-       name = "Videos"
-       tag = "Music"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
