@@ -29,10 +29,12 @@ subtitle = ""
    [[content.filter_button]]
      name = "Research and Academic"
      tag = "Research"
+     image = "img/display.jpg"
 
-     [[content.filter_button]]
-       name = "Outreach and Volunteering"
-       tag = "Research"
+   [[content.filter_button]]
+      name = "Outreach and Volunteering"
+      tag = "Research"
+
 
   [[content.filter_button]]
      name = "Music Recordings"
