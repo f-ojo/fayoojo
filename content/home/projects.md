@@ -31,8 +31,12 @@ subtitle = ""
      tag = "Research"
 
    [[content.filter_button]]
-     name = "Selected Performances"
+     name = "Music Recordings"
      tag = "Music"
+
+     [[content.filter_button]]
+       name = "Videos"
+       tag = "Music"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

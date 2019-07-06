@@ -25,11 +25,6 @@ subtitle = ""
   name = "Vocal Performance"
 
 [[feature]]
-  icon = "git"
-  icon_pack = "fab"
-  name = "Version Control"
-
-[[feature]]
   icon = "raspberry-pi"
   icon_pack = "fab"
   name = "Fabrication"
