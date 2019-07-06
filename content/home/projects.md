@@ -30,7 +30,11 @@ subtitle = ""
      name = "Research and Academic"
      tag = "Research"
 
-   [[content.filter_button]]
+     [[content.filter_button]]
+       name = "Outreach and Volunteering"
+       tag = "Research"
+
+  [[content.filter_button]]
      name = "Music Recordings"
      tag = "Music"
 
