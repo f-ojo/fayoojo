@@ -78,3 +78,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+[My CProjecc]{{< ref "project/audio.md" >}}
