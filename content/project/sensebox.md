@@ -9,7 +9,7 @@ header:
   image: "img/icon-192.png"
 
 ---
-![SenseBox Project](img/icon-192.png)
+![SenseBox Project](sensebox/featured.jpg)
 
 I have been working on the SenseBox under [Dr. Foad Hamidi](http://www.foadhamidi.info/) for over a year now. It is an open-source, low-cost, customizable hardware/software prototyping platform to turn everyday objects into audio triggers for users with diverse abilities.
 
