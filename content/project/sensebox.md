@@ -6,7 +6,7 @@ tag: "Research"
 tags: ["Research"]
 header:
   caption: "Fayo with the SenseBox prototype at URCAD"
-  image: "sense.jpg"
+  image: "https://photos.app.goo.gl/obtbfQEcj9NwcBH69"
 
 ---
 ![SenseBox Project](sensebox/featured.jpg)

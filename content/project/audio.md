@@ -4,16 +4,11 @@ date: 2019-07-06
 tag: "Music"
 tags: ["Music"]
 
-image:
-  # Caption (optional)
-  caption: "Photo by Victor Gee"
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point: "Center"
-  # Show image only in page previews?
-  preview_only: false
+header:
+  caption: "Perfmance at a UMBC Band Bight"
+  image: "https://photos.app.goo.gl/9vstfGEuXTnqBvsP6"
 ---
-![Band Night](https://drive.google.com/open?id=1OFZ_6r_BRe_45zP5yg5PTCvak3T3SZ4l)
+![Band Night](https://drive.google.com/open?id=1OFZ_6r_BRe_45zP5yg5PTCvak3T3SZ4l/view)
 
 {{< soundcloud 643654455 >}}
 This is an unedited, live rendition of "Wake Up Alone" by Amy Winehouse.
