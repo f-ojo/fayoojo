@@ -4,7 +4,9 @@ title: SenseBox Contributions
 date: 2019-07-07
 tag: "Research"
 tags: ["Research"]
-overlay_img: "img/icon-192.png" 
+header:
+  caption: "Fayo with the SenseBox prototype at URCAD"
+  image: "img/icon-192.png"
 
 ---
 ![SenseBox Project](img/icon-192.png)
