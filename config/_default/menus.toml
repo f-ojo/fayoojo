@@ -11,17 +11,17 @@
 [[main]]
   name = "Skills"
   url = "#skills"
-  weight = 20
+  weight = 50
 
 [[main]]
   name = "Portfolio"
   url = "#projects"
-  weight = 30
+  weight = 20
 
 [[main]]
   name = "Publications"
   url = "#featured"
-  weight = 40
+  weight = 30
 
 [[main]]
   name = "Contact"
