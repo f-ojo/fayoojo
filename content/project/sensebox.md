@@ -6,7 +6,7 @@ tag: "Research"
 tags: ["Research"]
 
 ---
-![SenseBox Project](/img/display.jpg)
+![SenseBox Project](C://Users/a0232850/Downloads/fayoojo-master/content/project/sensebox/featured.jpg)
 
 I have been working on the SenseBox under [Dr. Foad Hamidi](http://www.foadhamidi.info/) for over a year now. It is an open-source, low-cost, customizable hardware/software prototyping platform to turn everyday objects into audio triggers for users with diverse abilities.
 
