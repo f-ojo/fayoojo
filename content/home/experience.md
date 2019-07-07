@@ -44,7 +44,7 @@ date_format = "Jan 2006"
   date_start = "2018-01-30"
   date_end = ""
   description = """Researching how to make do-it-yourself (DIY) technology more accessible for new makers.
-
-  img/display.jpg"""
+  """
 
 +++
+img/display.jpg
