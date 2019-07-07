@@ -47,4 +47,3 @@ date_format = "Jan 2006"
   """
 
 +++
-![SenseBox Project](img/display.jpg)

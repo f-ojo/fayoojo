@@ -5,10 +5,10 @@ title: Projects
 #   1 = List
 #   3 = Card
 #   5 = Showcase
-view: 3
+view: 2
 
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: "audio/featured.jpg"
+  image: "featured.jpg"
 ---

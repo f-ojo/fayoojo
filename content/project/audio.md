@@ -13,6 +13,7 @@ image:
   # Show image only in page previews?
   preview_only: false
 ---
+![Band Night](audio/featured.jpg)
 
 {{< soundcloud 643654455 >}}
 This is an unedited, live rendition of "Wake Up Alone" by Amy Winehouse.
