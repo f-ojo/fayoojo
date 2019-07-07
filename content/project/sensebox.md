@@ -4,6 +4,7 @@ title: SenseBox Contributions
 date: 2019-07-07
 tag: "Research"
 tags: ["Research"]
+overlay_img: "img/icon-192.png" 
 
 ---
 ![SenseBox Project](img/icon-192.png)
