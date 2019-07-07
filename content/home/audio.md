@@ -2,11 +2,11 @@
 
 title: Recent Performances
 date: 2019-07-06
-tags: ["Music"]
+tags: "Music"
 
 ---
 
-{{< youtube dTYVdUXt-BE >}}
+{{< soundcloud 643654455 >}}
 
 February Light Show Featured Performers
 Vocals: Fayo Ojo
