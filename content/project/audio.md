@@ -1,6 +1,5 @@
 ---
-
-title: Recent Performances
+title: Recent Recordings
 date: 2019-07-06
 tag: "Music"
 tags: ["Music"]
