@@ -13,7 +13,7 @@ image:
   # Show image only in page previews?
   preview_only: false
 ---
-![Band Night](C://Users/a0232850/Downloads/fayoojo-master/content/project/audio/featured.jpg)
+![Band Night](https://drive.google.com/open?id=1OFZ_6r_BRe_45zP5yg5PTCvak3T3SZ4l)
 
 {{< soundcloud 643654455 >}}
 This is an unedited, live rendition of "Wake Up Alone" by Amy Winehouse.
