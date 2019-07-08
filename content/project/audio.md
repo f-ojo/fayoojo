@@ -4,9 +4,6 @@ date: 2019-07-06
 tag: "Music"
 tags: ["Music"]
 
-header:
-  caption: "Perfmance at a UMBC Band Bight"
-  image: "img/Webp.net-resizeimage.jpg"
 ---
 
 {{< soundcloud 643654455 >}}
