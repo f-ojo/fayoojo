@@ -6,9 +6,8 @@ tags: ["Music"]
 
 header:
   caption: "Perfmance at a UMBC Band Bight"
-  image: "https://photos.app.goo.gl/9vstfGEuXTnqBvsP6"
+  image: "img/Webp.net-resizeimage.jpg"
 ---
-![Band Night](https://photos.app.goo.gl/9vstfGEuXTnqBvsP6)
 
 {{< soundcloud 643654455 >}}
 This is an unedited, live rendition of "Wake Up Alone" by Amy Winehouse.
