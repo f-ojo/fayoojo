@@ -19,7 +19,7 @@ I have conducted research in the Prototype and Design (PAD) Lab (now DARE lab) f
 <h1 style="color: gold">Entrepreneurship</h1>
 I developed software at two, twelve-week internships at Texas Instruments. During my IT internship, I built a webpage that improved managers’ ability to track employee assignments. The following summer I was in Embedded Processing and I built a robot, TI RSLK MAX. My major project involved me creating software that automated testing when changes were detected.
 
-![TI RSLK MAX](rslk.png)
+![TI RSLK MAX](static/img/rslk.png)
 
 <h1 style="color: #cd7f32">Global</h1>
 TBD – Either German 100 or Music of the World. I applied for the Fulbright Research Abroad in Germany, and I plan to collaborate with people all around the world as a graduate student and beyond.
@@ -27,4 +27,4 @@ TBD – Either German 100 or Music of the World. I applied for the Fulbright Res
 <h1 style="color: gold">Service</h1>
 I have completed over 100 hours of service as a leader in Computer Science Education. This has included partnerships with Lakeland Elementary/Middle School, Lansdowne High School, and North County High School. This also includes organizing [Hour of Code events at UMBC.](https://www.csee.umbc.edu/2019/01/hour-of-code-brings-baltimore-3rd-and-4th-graders-to-umbc-for-fun-intro-to-computing/)
 
-![Volunteering](service.jpg)
+![Volunteering](static/img/service.jpg)
