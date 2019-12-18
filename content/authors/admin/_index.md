@@ -22,7 +22,7 @@ bio: Musician and undergraduate researcher in human-centered computing looking f
 
 interests:
 - Music Technology
-- Performance Technology
+- Computer Science Education
 - Human-Computer Interactions
 - Assistive Technology
 
@@ -65,6 +65,6 @@ user_groups:
 - Visitors
 ---
 
-Fayo Ojo is a computer science undergraduate at the University of Maryland, Baltimore County. She has done independent and collaborative research projects in human-centered computing, software engineering, and will be working on robotics in Fall 2019.
+Fayo Ojo is a computer science undergraduate at the University of Maryland, Baltimore County (UMBC). She has done independent and collaborative research projects in human-centered computing and software engineering. She has interned in the Embedded Processing and Information Technology groups at Texas Instruments.
 
-When she is not in class or conducting research, she is a vocalist in the Baltimore area with a passion for tech and engineering education outreach. She is the current president of Computer Science Education Club at UMBC.
+When she is not in class or conducting research, she is a vocalist in the Baltimore area with a passion for tech and engineering education outreach. She is a Grand Challenges Scholar the current president of Computer Science Education Club at UMBC.
