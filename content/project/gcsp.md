@@ -6,7 +6,6 @@ tag: "Research"
 tags: ["Research", "Outreach"]
 
 ---
-h1   {color: blue;}
 ## Personalized Learning ##
 I decided to choose personalized learning because of my passion for computer science education that I developed while at UMBC. I have worked on assistive technology for over 2 years and realized that integrating assistive devices to create learning platforms for users will disabilities would fit under personalized learning best. This is also what I plan on studying in graduate school.
 
