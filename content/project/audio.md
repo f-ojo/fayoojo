@@ -5,7 +5,7 @@ tag: "Music"
 tags: ["Music"]
 
 ---
-## Solo ##
+## Solo Vocal Performances ##
 
 {{< soundcloud 643654455 >}}
 This is an unedited, live rendition of "Wake Up Alone" by Amy Winehouse.
@@ -19,7 +19,7 @@ vocal parts.
 An experiment of grunge sound effects and adding harmonies to this soulful tune
 by Erykah Badu.
 
-## Duets ##
+## Duets with Talented Friends ##
 
 {{< soundcloud 643648599 >}}
 Fayo and Mattea re-envision "Delicate" by Damien Rice with the addition of adlibs, and vocal harmonies.
