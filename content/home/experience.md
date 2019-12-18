@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Undegraduate Research"
+  title = "Undegraduate Researcher"
   company = "The Prototyping and Design Lab at UMBC"
   company_url = "https://pad.umbc.edu/"
   location = "Baltimore, MD"

@@ -37,7 +37,7 @@ subtitle = ""
   [[content.filter_button]]
      name = "Music"
      tag = "Music"
-     image = "img/music_bkrd.jpg""
+     image = "img/music_bkrd.jpg"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
