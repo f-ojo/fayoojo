@@ -37,5 +37,5 @@
 
     [[main]]
       name = "Grand Challenges"
-      url = "content/project/gcsp.md"
+      url = "https://www.fayoojo.com/project/gcsp/"
       weight = 60

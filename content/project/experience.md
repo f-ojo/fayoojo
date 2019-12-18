@@ -27,4 +27,4 @@ TBD – Either German 100 or Music of the World. I applied for the Fulbright Res
 <h1 style="color:Gold>Service</h1>
 I have completed over 100 hours of service as a leader in Computer Science Education. This has included partnerships with Lakeland Elementary/Middle School, Lansdowne High School, and North County High School. This also includes organizing [Hour of Code events at UMBC.](https://www.csee.umbc.edu/2019/01/hour-of-code-brings-baltimore-3rd-and-4th-graders-to-umbc-for-fun-intro-to-computing/)
 
-![TI RSLK MAX](service.jpg)
+![Volunteering](service.jpg)
