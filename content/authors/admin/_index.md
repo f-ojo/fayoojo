@@ -67,4 +67,4 @@ user_groups:
 
 Fayo Ojo is a computer science undergraduate at the University of Maryland, Baltimore County (UMBC). She has done independent and collaborative research projects in human-centered computing and software engineering. She has interned in the Embedded Processing and Information Technology groups at Texas Instruments.
 
-When she is not in class or conducting research, she is a vocalist in the Baltimore area with a passion for tech and engineering education outreach. She is a Grand Challenges Scholar the current president of Computer Science Education Club at UMBC.
+When she is not in class or conducting research, she is a vocalist in the Baltimore area with a passion for tech and engineering education outreach. She is a [Grand Challenges Scholar](http://engineeringchallenges.org/GrandChallengeScholarsProgram.aspx) focusing on Personalized Learning and the current president of Computer Science Education Club at UMBC.
