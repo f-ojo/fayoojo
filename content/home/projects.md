@@ -37,7 +37,6 @@ subtitle = ""
   [[content.filter_button]]
      name = "Music"
      tag = "Music"
-     image = "img/music_bkrd.jpg"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -59,7 +58,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-   color = "navy"
+   #color = "navy"
 
   # Background gradient.
    gradient_start = "DeepSkyBlue"
