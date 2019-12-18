@@ -1,6 +1,6 @@
 ---
 
-title: Personalized Learning Experiences
+title: Advancing Personalized Learning Experiences
 date: 2019-12-18
 tag:
 tags:
@@ -12,7 +12,7 @@ I have a minor in Information Systems. The courses I have taken have a lot to do
 
 <h1 style="color: gold">Research</h1>
 
-I have conducted research in the Prototype and Design (PAD) Lab (now DARE lab) for 1.5 years. This is where I learned about assistive technology. In graduate school, I want to make personalize learning in technology by integrating accessibility through sound and haptics. May consider working with Dr. Ben Johnson on computer science education research using board games to teach data structures.
+I have conducted research in the Prototype and Design (PAD) Lab (now DARE lab) for 1.5 years. This is where I learned about assistive technology. In graduate school, I want to personalize learning in technology by integrating accessibility through sound and haptics. May consider working with Dr. Ben Johnson on computer science education research using board games to teach data structures.
 
 [Click here to for more details on my work in the PAD Lab ](https://www.fayoojo.com/project/sensebox/)
 
