@@ -13,4 +13,4 @@ I decided to choose personalized learning because of my passion for computer sci
 
 I wanted to participate in the Grand Challenge Scholars Program (GCSP) because I have always enjoyed interdisciplinary work. As I was preparing to go into graduate school, I wanted to think critically about what I wanted to work on as PhD student, but more importantly, how what I was doing would benefit the world at large. GCSP focuses on issues that we are currently facing on a global skill and I wanted to get a head start on one of the challenges.
 
-[Advancing Personalized Learning Experiences](https://www.fayoojo.com/post/experience/)
+[Advancing Personalized Learning Experiences](https://www.fayoojo.com/blog/advancing-personalized-learning-experiences/)
