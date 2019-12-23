@@ -10,4 +10,3 @@ publication: "*Proceedings of the Thirteenth International Conference on Tangibl
 url_pdf: "http://dl.acm.org/citation.cfm?doid=3294109.3295633"
 doi: "10.1145/3294109.3295633"
 ---
-
