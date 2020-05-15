@@ -1,6 +1,6 @@
 ---
 
-title: Research Experience
+title: Global Experience
 date: 2019-12-18
 tag:
 tags:
