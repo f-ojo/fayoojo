@@ -1,18 +1,18 @@
 ---
 
-title: Advancing Personalized Learning Experiences
+title: Research Experience
 date: 2019-12-18
 tag:
 tags:
 
 ---
-<h1 style="color: gold">Interdisciplinarity</h1>
+![Gold Medal](https://www.fayoojo.com/project/goldmedal.jpg)
 
 I have a minor in Information Systems. The courses I have taken have a lot to do with management, business and analyzing a software system. This is important for personalized learning because when creating technology that focuses on personalizing learning, it is important to understand how the system currently works, finding the issues, and developing potential solutions. Through IS, I also learned that solutions are not “one-size fits-all”. Courses like Human-Computer Interactions (IS 303) and User Interface Design (IS 403) were particularly helpful for learning about accessibility.
 
 <h1 style="color: gold">Research</h1>
 
-I have conducted research in the Prototype and Design (PAD) Lab (now DARE lab) for 1.5 years. This is where I learned about assistive technology. In graduate school, I want to personalize learning in technology by integrating accessibility through sound and haptics. May consider working with Dr. Ben Johnson on computer science education research using board games to teach data structures.
+I propose a Nation Science Foundation (NSF) Research Experience for Undergraduates (REU) in Software Safety at the University of Texas at Dallas. Through this REU, I learned to analyze a system and find potential hazards in order to prevent them from happening. I looked at a stair-climbing, self-balancing wheelchair developed by research at ETH Zurich and got feedback from the researchers there about the fault tree we developed. I found that some of the potential safety issues in the system could result in someone falling out their wheelchair and possibly getting injured.This REU entails 40 hours of research a week for 10 weeks from May 19th to July 20th, 2017. Accounting for a late start due to UMBC’s final exams and activities sponsored by the NSF, this brings the total time commitment to about 365 hours.
 
 [Click here to for more details on my work in the PAD Lab ](https://www.fayoojo.com/project/sensebox/)
 
