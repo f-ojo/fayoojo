@@ -18,15 +18,15 @@ I initially assisted in creating the SenseBox software, and I experimented with 
 This experience is relatively well tied to the Advancing Personalized Learning Challenge. A lot of the work I want to do around advancing personalized learning is related to accessibility and the research I did in personal fabrication made me realize that DIY projects can be very empowering for the end user especially for assistive technology. A similar approach to education could prove fruitful, especially for learners with disabilities. This includes learning platforms that could allow users to create something while learning a topic.
 
 ### Learning Objectives ###
-This very strongly relates to **perspectivism**. In technology, we often think about the average user and initial work in advancing personalized learning may fall into a similar habit. With accessibility in mind, the goal is thinking about users that have vision impairments or users that may be experiencing loss of motor functions. It is important to maintain perspective when working to advance personalized learning for as many people as possible and make sure the groups I am working to help are included in discussions.
+This very strongly relates to <span style="color:grey">**perspectivism**</span>. In technology, we often think about the average user and initial work in advancing personalized learning may fall into a similar habit. With accessibility in mind, the goal is thinking about users that have vision impairments or users that may be experiencing loss of motor functions. It is important to maintain perspective when working to advance personalized learning for as many people as possible and make sure the groups I am working to help are included in discussions.
 
-**Identify the different disciplines that contribute to the solution of a complex problem.**
+<span style="color:grey">**Identify the different disciplines that contribute to the solution of a complex problem.**</span>
 This project required integration of design using a 3D printer, programming software, electronics, and product analysis.
 
-**Describe and apply strategies for creating common ground between different disciplinary perspectives.**
+<span style="color:grey">**Describe and apply strategies for creating common ground between different disciplinary perspectives.**</span>
 HCI is a field that does not merely allow collaboration from different disciplines, it encourages it. The initial focus of the project was to create a product that had the functionality we wanted. However, the initial enclosure was not well suited to be used in the settings we envisioned. As a result, we had to shift focus to designing an enclosure that could hold our electronic components but also have a look and feel that made users comfortable.
 
-**Describe and apply bridging strategies that facilitate the conscious integration of different disciplines.**
+<span style="color:grey">**Describe and apply bridging strategies that facilitate the conscious integration of different disciplines.**</span>
 I think the biggest bridging strategy id ensuring that all groups are represented. In smaller teams, this may mean any one person may be wearing different hats. For example, in my team I was a programmer, but I was also doing product analysis. In a larger team, there can be any number of individuals acting in different roles to accomplish the task at hand.
 
 
