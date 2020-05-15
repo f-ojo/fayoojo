@@ -18,9 +18,13 @@ The work I did in the REU mostly contributes to the **integrity** learning objec
 
 **Core Learning Objectives**
 - In terms of **perspectivism**, it was interesting to see the researchers and contributors to the stair-climbing, self-balancing wheelchair were all able-bodied. It did not seem like people in wheelchairs were centered in the research and from that perspective, I want my research in making computer science accessible will put people with varying abilities at the center.
+
 - The wheelchair that was used as a case-study for the research project was one of the most creative things that I saw at that point. It is an example of using technology to navigate the environment as opposed to changing the environment to fit users needs. Perfectly in-line with **realistic vision**, creativity that follows the constraints of the world.
+
 - I worked on this project with another researcher, and I learned a lot about **being part of a team** and ensuring that you are keeping each other accountable for following through on commitments.
+
 - There were challenges finding a case study for this project. Initially we wanted to look at a human exoskeleton developed by Lockheed Martin. However, this involved a contract we did not have the time to flesh out. So, I was **persistent** and scoured the web for another case study.
+
 - Similarly, with persistence, **flexibility** was a key part of completing this research project. Our PI and the graduate-student coordinator were not as available as we would have liked. The coordinator was finishing his PhD that summer and traveling with the PI for conferences. So, we had made time with the PI in a different way that initially expected
 
 **Research Objectives**
