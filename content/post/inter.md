@@ -6,7 +6,7 @@ tag:
 tags:
 
 ---
-![Gold Medal](https://www.fayoojo.com/project/goldsilver.jpg)
+![Silver Medal](https://www.fayoojo.com/project/silvermedal.png)
 
 {{< youtube kbS95d5cjbI >}}
 
@@ -14,7 +14,7 @@ I propose research in human-computer interactions, specifically in personalized 
 
 I initially assisted in creating the SenseBox software, and I experimented with the fabrication process. For this portion, I was volunteering in the lab about 4 hours a week for 10 weeks. My biggest contributions have primarily been about documentation and simplifying instructions. I did an research project on DIY assistive technology and used the SenseBox as a case study for how instructions can be simplified. This took about 5 hours a week for 12 weeks. I have spent 80 hours directly working on the SenseBox and an additional 30 hours of planning and presenting research related to the SenseBox as well as attending HCI conferences and seminars. I have spent about 130 hours on this project
 
-### Reflection ###
+## Reflection ##
 This experience is relatively well tied to the Advancing Personalized Learning Challenge. A lot of the work I want to do around advancing personalized learning is related to accessibility and the research I did in personal fabrication made me realize that DIY projects can be very empowering for the end user especially for assistive technology. A similar approach to education could prove fruitful, especially for learners with disabilities. This includes learning platforms that could allow users to create something while learning a topic.
 
 ### Learning Objectives ###

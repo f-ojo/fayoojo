@@ -6,26 +6,22 @@ tag:
 tags:
 
 ---
-![Gold Medal](https://www.fayoojo.com/project/goldmedal.jpg)
-
-I have a minor in Information Systems. The courses I have taken have a lot to do with management, business and analyzing a software system. This is important for personalized learning because when creating technology that focuses on personalizing learning, it is important to understand how the system currently works, finding the issues, and developing potential solutions. Through IS, I also learned that solutions are not “one-size fits-all”. Courses like Human-Computer Interactions (IS 303) and User Interface Design (IS 403) were particularly helpful for learning about accessibility.
-
-<h1 style="color: gold">Research</h1>
+![Gold Medal](https://www.fayoojo.com/project/goldmedal.png)
 
 I propose a Nation Science Foundation (NSF) Research Experience for Undergraduates (REU) in Software Safety at the University of Texas at Dallas. Through this REU, I learned to analyze a system and find potential hazards in order to prevent them from happening. I looked at a stair-climbing, self-balancing wheelchair developed by research at ETH Zurich and got feedback from the researchers there about the fault tree we developed. I found that some of the potential safety issues in the system could result in someone falling out their wheelchair and possibly getting injured.This REU entails 40 hours of research a week for 10 weeks from May 19th to July 20th, 2017. Accounting for a late start due to UMBC’s final exams and activities sponsored by the NSF, this brings the total time commitment to about 365 hours.
 
-[Click here to for more details on my work in the PAD Lab ](https://www.fayoojo.com/project/sensebox/)
+## Reflection ##
+This research experience is overall weakly tied to my Grand Challenge. This experience gave me additional technical experience and the ability to look at a system as a whole for what could potentially go wrong and bring security or safety issues to the end user.I want to use artificial intelligence to personalize learning and also make computer science more accessible. Through this research project, I became interested in assistive technology and research in general. What I learned during this REU has carried on to other work I have done.
 
-<h1 style="color: gold">Entrepreneurship</h1>
-I developed software at two, twelve-week internships at Texas Instruments. During my IT internship, I built a webpage that improved managers’ ability to track employee assignments. The following summer I was in Embedded Processing and I built a robot, TI RSLK MAX. My major project involved me creating software that automated testing when changes were detected. Working at Texas Instruments made me a better programmer and engineer. So, I now have many of the skills required to create accessible interfaces for personalized learning. In addition, I was able to work with microcontrollers and realized that their low cost may make them ideal for whatever I decide to create.
+### Learning Objectives ###
+The work I did in the REU mostly contributes to the **integrity** learning objective. There have been stories about companies that have sold products that had security or safety concerns that were previously known and sent them to market anyways. Software safety research is the first project I have worked on that focused on how technology can negatively impact the people that use it and how to circumvent those failures.
 
-![TI RSLK MAX](https://www.fayoojo.com/project/rslk.png)
+**Core Learning Objectives**
+- In terms of **perspectivism**, it was interesting to see the researchers and contributors to the stair-climbing, self-balancing wheelchair were all able-bodied. It did not seem like people in wheelchairs were centered in the research and from that perspective, I want my research in making computer science accessible will put people with varying abilities at the center.
+- The wheelchair that was used as a case-study for the research project was one of the most creative things that I saw at that point. It is an example of using technology to navigate the environment as opposed to changing the environment to fit users needs. Perfectly in-line with **realistic vision**, creativity that follows the constraints of the world.
+- I worked on this project with another researcher, and I learned a lot about **being part of a team** and ensuring that you are keeping each other accountable for following through on commitments.
+- There were challenges finding a case study for this project. Initially we wanted to look at a human exoskeleton developed by Lockheed Martin. However, this involved a contract we did not have the time to flesh out. So, I was **persistent** and scoured the web for another case study.
+- Similarly, with persistence, **flexibility** was a key part of completing this research project. Our PI and the graduate-student coordinator were not as available as we would have liked. The coordinator was finishing his PhD that summer and traveling with the PI for conferences. So, we had made time with the PI in a different way that initially expected
 
-<h1 style="color: #cd7f32">Global</h1>
-TBD – Either German 100 or Music of the World. I applied for the Fulbright Research Abroad in Germany, and I plan to collaborate with people all around the world as a graduate student and beyond.
-
-<h1 style="color: gold">Service</h1>
-I have completed over 100 hours of service as a leader in Computer Science Education. This has included partnerships with Lakeland Elementary/Middle School, Lansdowne High School, and North County High School. This also includes organizing [Hour of Code events at UMBC.](https://www.csee.umbc.edu/2019/01/hour-of-code-brings-baltimore-3rd-and-4th-graders-to-umbc-for-fun-intro-to-computing/)<br />
-I have learned a lot about what makes different students excited about learning and different modes of learning, particularly in tech and computer science.
-
-![Volunteering](https://www.fayoojo.com/project/service.jpg)
+**Research Objectives**
+- Within **practicality**, I quickly learned how to set expectations given the time I had allocated. I initially was hoping to get a publication out the research I conducted over the summer. However, since software safety was a new area for me, I had to spend a lot of time learning about software safety concepts before I could start doing research
