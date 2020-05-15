@@ -6,13 +6,13 @@ tag:
 tags:
 
 ---
-![Silver Medal](https://www.fayoojo.com/project/silvermedal.png)
-
-{{< youtube kbS95d5cjbI >}}
+<img src="https://www.fayoojo.com/project/silvermedal.png" alt="Silver Medal" width="250" height="250">
 
 I propose research in human-computer interactions, specifically in personalized fabrication. I worked on the SenseBox under Dr. Foad Hamidi from Spring 2018 to through the end of the Spring 2019 semester. It is an open-source, low-cost, customizable hardware/software prototyping platform to turn everyday objects into audio triggers for users with diverse abilities.
 
 I initially assisted in creating the SenseBox software, and I experimented with the fabrication process. For this portion, I was volunteering in the lab about 4 hours a week for 10 weeks. My biggest contributions have primarily been about documentation and simplifying instructions. I did an research project on DIY assistive technology and used the SenseBox as a case study for how instructions can be simplified. This took about 5 hours a week for 12 weeks. I have spent 80 hours directly working on the SenseBox and an additional 30 hours of planning and presenting research related to the SenseBox as well as attending HCI conferences and seminars. I have spent about 130 hours on this project
+
+{{< youtube kbS95d5cjbI >}}
 
 ## Reflection ##
 This experience is relatively well tied to the Advancing Personalized Learning Challenge. A lot of the work I want to do around advancing personalized learning is related to accessibility and the research I did in personal fabrication made me realize that DIY projects can be very empowering for the end user especially for assistive technology. A similar approach to education could prove fruitful, especially for learners with disabilities. This includes learning platforms that could allow users to create something while learning a topic.

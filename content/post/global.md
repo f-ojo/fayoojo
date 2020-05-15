@@ -6,7 +6,7 @@ tag:
 tags:
 
 ---
-![Bronze Medal](https://www.fayoojo.com/project/bronzemedal.png)
+<img src="https://www.fayoojo.com/project/bronzemedal.png" alt="Bronze Medal" width="250" height="250">
 
 My proposed global experience involves me taking ANTH 224: A Focused Study on the Caribbean. In this course, I will learn about the past and present state of the Caribbean, particularly focusing on how colonialism and slavery continues to have an impact at every level. This is a 3-credit class, so I will spend about 5 hours a week for this course which totals to about 75 hours. The class involves a final project where I look at the why the Caribbean needs to more STEM education. This includes an analysis of the current state of STEM education in the Caribbean as well as proposed opportunities for growth.
 

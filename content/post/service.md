@@ -6,7 +6,7 @@ tag:
 tags:
 
 ---
-![Gold Medal](https://www.fayoojo.com/project/goldmedal.png)
+<img src="https://www.fayoojo.com/project/goldmedal.png" alt="Gold Medal" width="250" height="250">
 
 In Computer Science Education Club, I organized, planned, and participated in 3 [Hour of Code](https://www.csee.umbc.edu/2019/01/hour-of-code-brings-baltimore-3rd-and-4th-graders-to-umbc-for-fun-intro-to-computing/) events. During these events we invite students from Lakeland Elementary/Middle School to learn about computer science through interactive programming games and learn about what college has to offer. In addition, I was a teaching assistant for Kids WhoCode, a weekly after-school program at Lakeland Elementary school with 1st and 2nd grade students teaching them Scratch Jr. This semester, I am volunteering with Lansdowne High School and supporting their Computer Science and Robotics Club.
 

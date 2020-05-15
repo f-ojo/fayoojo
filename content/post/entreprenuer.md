@@ -6,7 +6,7 @@ tag:
 tags:
 
 ---
-![Bronze Medal](https://www.fayoojo.com/project/silvermedal.png)
+<img src="https://www.fayoojo.com/project/bronzemedal.png" alt="Bronze Medal" width="250" height="250">
 
 I propose participation in an entrepreneurship competition. Texas Instruments offered participation to innovate using the TI-RSLK MAX robot kit for interns in the summer of 2019. Robots should be configured to a line and/or distance sensor to move through a maze. Robots are judged on speed, power efficiency and creativity. I worked with a fellow intern and we spent about 4 hours per week for 8 weeks working directly on the robot. I personally spent an extra 30 hours of my own time learning about electrical engineering concepts like pulse width modulation and get the robot to move and turn. I followed the [TI-RSLK university curriculum](https://university.ti.com/en/faculty/ti-robotics-system-learning-kit/ti-rslk-max-edition-curriculum) to learn how to use bluetooth and wi-fi microcontrollers and integrate them in the robot.
 
