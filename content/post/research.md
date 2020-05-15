@@ -6,7 +6,7 @@ tag:
 tags:
 
 ---
-![Gold Medal](https://www.fayoojo.com/project/goldmedal.png)
+![Gold Medal](https://www.fayoojo.com/project/goldmedal.png =250x250)
 
 I propose a Nation Science Foundation (NSF) Research Experience for Undergraduates (REU) in Software Safety at the University of Texas at Dallas. Through this REU, I learned to analyze a system and find potential hazards in order to prevent them from happening. I looked at a stair-climbing, self-balancing wheelchair developed by research at ETH Zurich and got feedback from the researchers there about the fault tree we developed. I found that some of the potential safety issues in the system could result in someone falling out their wheelchair and possibly getting injured.This REU entails 40 hours of research a week for 10 weeks from May 19th to July 20th, 2017. Accounting for a late start due to UMBC’s final exams and activities sponsored by the NSF, this brings the total time commitment to about 365 hours.
 
