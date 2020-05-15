@@ -17,6 +17,7 @@ This research experience is overall weakly tied to my Grand Challenge. This expe
 The work I did in the REU mostly contributes to the **integrity** learning objective. There have been stories about companies that have sold products that had security or safety concerns that were previously known and sent them to market anyways. Software safety research is the first project I have worked on that focused on how technology can negatively impact the people that use it and how to circumvent those failures.
 
 **Core Learning Objectives**
+
 - In terms of **perspectivism**, it was interesting to see the researchers and contributors to the stair-climbing, self-balancing wheelchair were all able-bodied. It did not seem like people in wheelchairs were centered in the research and from that perspective, I want my research in making computer science accessible will put people with varying abilities at the center.
 
 - The wheelchair that was used as a case-study for the research project was one of the most creative things that I saw at that point. It is an example of using technology to navigate the environment as opposed to changing the environment to fit users needs. Perfectly in-line with **realistic vision**, creativity that follows the constraints of the world.
