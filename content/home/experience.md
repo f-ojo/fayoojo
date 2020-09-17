@@ -18,23 +18,33 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Teaching Assistant"
-  company = "CSEE at UMBC"
-  company_url = "https://www.csee.umbc.edu/"
-  location = "Baltimore, MD"
-  date_start = "2019-01-22"
+  title = "Visiting Research Scholar"
+  company = "Max Planck Institute for Intelligent Systems"
+  company_url = "https://hi.is.mpg.de"
+  location = "Stuttgart, Germany"
+  date_start = "2020-09-07"
   date_end = ""
-  description = """Create and grade assignments testing programming concepts in C++ like pointers, memory management, polymorphism, etc."""
+  description = """Create and refine an emotional response algorithm that enables a small humanoid robot to respond to various physical gestures in an emotionally intelligent way
+  """
 
 [[experience]]
   title = "Embedded Processing Software Intern"
   company = "Texas Instruments Inc."
   company_url = "http://www.ti.com/about-ti/company/overview.html"
   location = "Dallas, TX"
-  date_start = "2019-06-03"
-  date_end = "2019-08-16"
-  description = """Enhancing software development tools using python and bash scripts, and researching how to use Micropython to run python on microcontrollers.
+  date_start = "2020-06-01"
+  date_end = "2020-08-14"
+  description = """Designed and implemented an Automated Bug Reporting Tool in Python to classify errors after testcase failures in a detailed report
   """
+
+[[experience]]
+  title = "Teaching Assistant"
+  company = "CSEE at UMBC"
+  company_url = "https://www.csee.umbc.edu/"
+  location = "Baltimore, MD"
+  date_start = "2019-01-22"
+  date_end = "2020-05-25"
+  description = """Create and grade assignments testing programming concepts in C++ like pointers, memory management, polymorphism, etc."""
 
 [[experience]]
   title = "Undergraduate Researcher"

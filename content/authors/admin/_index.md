@@ -10,18 +10,18 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate Researcher
+role: Visiting Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: University of Maryland, Baltimore County (UMBC)
-  url: "https://isrc.umbc.edu/"
+- name: Max Planck Institute for Intelligent Systems
+  url: "https://hi.is.mpg.de"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Musician and undergraduate researcher in human-centered computing looking for interdisciplinary, graduate school opportunities.
 
 interests:
-- Music Technology
+- Personal Robotics
 - Computer Science Education
 - Human-Computer Interactions
 - Assistive Technology
@@ -65,6 +65,6 @@ user_groups:
 - Visitors
 ---
 
-Fayo Ojo is a computer science undergraduate at the University of Maryland, Baltimore County (UMBC). She has done independent and collaborative research projects in human-centered computing and software engineering. She has interned in the Embedded Processing and Information Technology groups at Texas Instruments.
+Fayo Ojo is currently a Visiting Researcher in the Haptics Department at the Max Planck Institute for Intelligent Systems working in robotics. She previously completed a Bachelor of Science in Computer Science from the University of Maryland, Baltimore County (UMBC). There she completed independent and collaborative research projects in human-centered computing and software engineering. She has interned in the Embedded Processing and Information Technology groups at Texas Instruments.
 
-When she is not in class or conducting research, she is a vocalist in the Baltimore area with a passion for tech and engineering education outreach. She is a [Grand Challenges Scholar](http://engineeringchallenges.org/GrandChallengeScholarsProgram.aspx) focusing on Personalized Learning and the current president of Computer Science Education Club at UMBC.
+When she is not in class or conducting research, she is a vocalist in the Baltimore area with a passion for tech and engineering education outreach as the former president of Computer Science Education at UMBC. She was also a [Grand Challenges Scholar](http://engineeringchallenges.org/GrandChallengeScholarsProgram.aspx) focusing on Advancing Personalized Learning. She hopes to continue working in this area throughout her career as a researcher.
