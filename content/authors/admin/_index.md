@@ -18,7 +18,7 @@ organizations:
   url: "https://hi.is.mpg.de"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Musician and undergraduate researcher in human-centered computing looking for interdisciplinary, graduate school opportunities.
+bio: Musician and researcher in human-robot interactions looking for interdisciplinary, graduate school opportunities.
 
 interests:
 - Personal Robotics
