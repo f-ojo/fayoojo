@@ -65,6 +65,6 @@ user_groups:
 - Visitors
 ---
 
-Fayo Ojo is currently a Visiting Researcher in the Haptics Department at the Max Planck Institute for Intelligent Systems working with socially assistive robotics. She is an alumna of the University of Maryland, Baltimore County (UMBC). There she completed independent and collaborative research projects in human-centered computing and software engineering. She has also interned in the Embedded Processing and Information Technology groups at Texas Instruments.
+Fayo Ojo is currently a Visiting Researcher in Haptic Intelligence at the Max Planck Institute for Intelligent Systems working with socially assistive robotics. She is an alumna of the University of Maryland, Baltimore County (UMBC). There she completed independent and collaborative research projects in human-centered computing and software engineering. She has also interned in the Embedded Processing and Information Technology groups at Texas Instruments.
 
 When she is not in class or conducting research, she is a vocalist in the Baltimore area with a passion for tech and engineering education outreach as the former president of Computer Science Education at UMBC. She was also a [Grand Challenges Scholar](http://engineeringchallenges.org/GrandChallengeScholarsProgram.aspx) focusing on Advancing Personalized Learning. She hopes to continue working in this area throughout her career as a researcher.
